@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-que-lastima/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Roce que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-que-lastima/) |
+| **Get License** | [Obtain a Music License for Roce que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-que-lastima/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3717)
+- [Telegram](https://t.me/AbuSayedMusic/3722)
 
 ---
 
