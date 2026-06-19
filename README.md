@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-que-lastima/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Roce que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-que-lastima/) |
+| **Get License** | [Secure Licensing Rights for Roce que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-que-lastima/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada tuya corta como un cristal
+> Rompiendo el hielo en esta noche de la capital
+> Tú tienes el veneno que me hace volar
+> Un roce que lastima, pero quiero más
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
