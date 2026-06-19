@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Roce que lastima |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-que-lastima/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Roce que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-que-lastima/) |
+| **Get License** | [Request Licensing for Roce que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-que-lastima/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Esa mirada tuya corta como un cristal
-> Rompiendo el hielo en esta noche de la capital
-> Tú tienes el veneno que me hace volar
-> Un roce que lastima, pero quiero más
+> Roce que lastima when you move like that
+> Fuego en la pista, you know where it's at
+> Roce que lastima, don't hold it back
+> Tonight we're stars in this club habitat
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
