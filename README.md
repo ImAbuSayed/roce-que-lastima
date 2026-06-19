@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-que-lastima/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Roce que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-que-lastima/) |
+| **Get License** | [Official Music Licensing for Roce que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-que-lastima/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `679e1af2633f6864b2b04946699d4d8d8f883261d5e63b4c733d9908bb0afafd` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

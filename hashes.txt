@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce que lastima
+
+This log tracks the cryptographic history and versioning for the song **Roce que lastima** (roce-que-lastima).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T00:58:08.440565 | `v1` | `679e1af2633f6864b2b04946699d4d8d8f883261d5e63b4c733d9908bb0afafd` | `9ff0a3c51178dc32b703c2ac19e12ca4d8f1ec7b2813d2a075477d753602d310` | `2026-06-20_roce-que-lastima-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
